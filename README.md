@@ -1,1 +1,1 @@
-openshift-client
+# openshift-client.deb
